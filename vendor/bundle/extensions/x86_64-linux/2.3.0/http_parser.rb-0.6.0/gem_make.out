@@ -1,0 +1,16 @@
+current directory: /home/tiago/Documents/so-simple-theme/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/usr/bin/ruby2.3 -r ./siteconf20180410-4030-1fe33si.rb extconf.rb
+creating Makefile
+
+current directory: /home/tiago/Documents/so-simple-theme/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /home/tiago/Documents/so-simple-theme/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/tiago/Documents/so-simple-theme/vendor/bundle/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20180410-4030-1gtw7ef
